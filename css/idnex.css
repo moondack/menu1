@@ -30,6 +30,12 @@ body {
   color: #000;
 }
 
+.back button{
+    border: none;
+  background: none;
+  padding: 0px;
+}
+
 
 .menu {
   width: 100%;
@@ -108,6 +114,7 @@ hr {
     letter-spacing: 3px;
   }
 }
+
 
 
 
