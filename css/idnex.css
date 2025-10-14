@@ -44,7 +44,7 @@ body {
   padding: 40px 0;
 }
 
-.menu button{
+.menu-item button{
   border: none;
   background: none;
   padding: 0px;
@@ -109,4 +109,5 @@ hr {
     letter-spacing: 3px;
   }
 }
+
 
