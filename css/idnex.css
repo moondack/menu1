@@ -27,7 +27,6 @@ body {
 }
 
 .back {
-  text-decoration: none;
   color: #000;
 }
 
@@ -109,5 +108,6 @@ hr {
     letter-spacing: 3px;
   }
 }
+
 
 
