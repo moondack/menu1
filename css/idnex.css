@@ -28,6 +28,10 @@ body {
 
 .back {
   color: #000;
+      border: none;
+  background: none;
+  padding: 0px;
+
 }
 
 .back button{
@@ -116,6 +120,7 @@ hr {
     letter-spacing: 3px;
   }
 }
+
 
 
 
