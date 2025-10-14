@@ -44,6 +44,12 @@ body {
   padding: 40px 0;
 }
 
+.menu button{
+  border: none;
+  background: none;
+  padding: 0px;
+}
+
 .menu-row {
   display: flex;
   justify-content: space-between;
@@ -103,3 +109,4 @@ hr {
     letter-spacing: 3px;
   }
 }
+
